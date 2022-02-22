@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonForum", "DragonForum\DragonForum.csproj", "{C7FAC6BD-6AAB-4698-A8BD-883E1A053FAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonForum.Tests", "DragonForum.Tests\DragonForum.Tests.csproj", "{8F6E38B8-E60E-4267-B567-1ECBADF7525A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7FAC6BD-6AAB-4698-A8BD-883E1A053FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FAC6BD-6AAB-4698-A8BD-883E1A053FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FAC6BD-6AAB-4698-A8BD-883E1A053FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FAC6BD-6AAB-4698-A8BD-883E1A053FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F6E38B8-E60E-4267-B567-1ECBADF7525A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6E38B8-E60E-4267-B567-1ECBADF7525A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6E38B8-E60E-4267-B567-1ECBADF7525A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6E38B8-E60E-4267-B567-1ECBADF7525A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
